@@ -1,0 +1,1 @@
+{"version":3,"sources":["../stdin"],"names":[],"mappings":"AAAA,sBAGQ,kBAAqB,CACxB","file":"ie9.css","sourcesContent":[".header {\n\n    .header__text {\n        top: 35px !important;\n    }\n}"],"sourceRoot":"/source/"}
