@@ -16,7 +16,7 @@ import { counter, title } from '../jsx/reducers/counter.jsx';
 
 // Redux histroy state changer
 const history = useBasename(createHistory)({
-    basename: baseUrl
+    basename: '/react-router-redux-router/public'
 });
 
 // combine all to make a "state"

@@ -83,7 +83,7 @@
 
 	// Redux histroy state changer
 	var history = (0, _history.useBasename)(_history.createHistory)({
-	    basename: baseUrl
+	    basename: '/react-router-redux-router/public'
 	});
 
 	// combine all to make a "state"
