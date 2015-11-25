@@ -12,7 +12,7 @@ import { Provider } from 'react-redux';
 
 
 // REDUCERS
-import { counter, title } from '../jsx/reducers/counter.jsx';
+import { counter, title } from '../jsx/reducers/reducers.jsx';
 
 // Redux histroy state changer
 const history = useBasename(createHistory)({
